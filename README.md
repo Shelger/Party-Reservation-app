@@ -1,4 +1,9 @@
+# Statement
+  This project is copied from my private repository, so it may lack some keys to run.
+  
 # Party-Reservation-app
+
+This project is copied from my private repository, so it may lack some keys to run.
 
 This project is a website application allowing company to post their events and allowing the customer user to reserve and pay for the event.
 
